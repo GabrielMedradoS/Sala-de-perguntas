@@ -24,7 +24,7 @@
 ### Layout 🚧
 
 #### Desktop Screenshot
-  <img alt="imageBeautysalon" src=".github/rocket.q.png" width="100%">
+  <img alt="imageBeautysalon" src=".github/github image.png" width="100%">
 
 ### Projeto 💻
 O projeto é um site onde o usuario pode criar salas como dono ou entrar em uma sala já existente para fazer perguntas  
